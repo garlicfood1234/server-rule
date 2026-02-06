@@ -295,7 +295,7 @@
 
 현재 시행 중인 규칙이 없습니다.
 
-- (비어 있음)
+- [마인크래프트 서버 운영에 관한 규칙](https://github.com/garlicfood1234/server-rule/blob/main/mc_rule.md)
 
 # 규정의 해석 및 개정
 
