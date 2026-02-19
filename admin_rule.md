@@ -1,3 +1,5 @@
+상위 문서: [바로가기](https://github.com/garlicfood1234/server-rule/blob/main/rule.md)
+
 ## 운영진
 
 ### 운영진의 분류
